@@ -1,4 +1,4 @@
-Shiva Shankar Kotte :
+# Shiva Shankar Kotte :
 <br>- 🔭 I’m currently working on **Frontend projects (HTML, CSS, JavaScript, React)**  <br>- 🤝 I’m looking to collaborate on **Open Source Projects & Hackathons** <br>- 🧑‍💻 I’m looking for help with **optimizing code and improving problem-solving approaches**  <br>- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and Frontend Development**  <br>- 💬 Ask me about **JavaScript, React basics, and solving beginner DSA problems**  <br>- ⚡ Fun fact: *Solving a tricky bug feels as satisfying as solving a tough DSA question!*
 
 
