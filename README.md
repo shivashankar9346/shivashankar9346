@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey, I’m Shiva — Aspiring Full-Stack Developer 
   <br><br>- 🔭 I’m currently working on **front-end projects with HTML, CSS, JavaScript, and React**  <br>- 🤝 I’m looking to collaborate on  **Open Source Projects & Hackathons**  <br>- 🧑‍💻 I’m looking for help with **best practices in responsive design & clean code**  <br>- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and Frontend Development**  <br>- 💬 Ask me about **JavaScript , project building, and learning strategies**  <br>- ⚡ Fun fact: *I love experimenting with UI designs and turning ideas into simple web apps!*
 
 
