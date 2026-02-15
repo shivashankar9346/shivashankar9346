@@ -1,4 +1,4 @@
-# 🚀 Shiva | Full-Stack Developer
+# Hey 👋 I’m Shiva — Full-Stack Developer 🚀
 
 🔭 **Currently Building:** Full-stack applications using React for the frontend and FastAPI / Node.js for the backend.<br>
 🛠️ **Frontend Stack:** HTML5, CSS3, JavaScript (ES6+), React.<br>
