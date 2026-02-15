@@ -1,52 +1,21 @@
-# Hi 👋, I'm Shiva  
-### 🚀 Full-Stack Developer
+Hey 👋 I’m Shiva — Full-Stack Developer 🚀
 
-🔭 **Currently Building:**  
-Full-stack web applications using React for the frontend and FastAPI / Node.js for the backend.
+🔭 Currently building full-stack applications using React for the frontend and FastAPI / Node.js for the backend.
 
----
+🛠️ Frontend: HTML5, CSS3, JavaScript (ES6+), React.
 
-## 🛠️ Tech Stack
+⚙️ Backend & Databases: Node.js, Express, FastAPI (Python), MongoDB, PostgreSQL.
 
-### 🎨 Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React  
+🧪 API Testing: Experienced in testing and documenting RESTful APIs using Postman.
 
-### ⚙️ Backend & Databases
-- Node.js  
-- Express  
-- FastAPI (Python)  
-- MongoDB  
-- PostgreSQL  
+🌱 Currently diving deep into Data Structures & Algorithms (DSA) to write scalable and efficient code.
 
-### 🧪 API & Tools
-- Postman (API Testing & Documentation)  
-- Git & GitHub  
+🤝 Open to collaborating on Open Source projects and Hackathons.
 
----
+💬 Let’s talk about JavaScript, Python, FastAPI, backend development, and learning strategies.
 
-## 🌱 Currently Learning
-- Data Structures & Algorithms (DSA)  
-- Writing scalable and optimized backend systems  
+⚡ Fun fact: I love turning complex ideas into clean, simple web applications that solve real-world problems.
 
----
-
-## 🤝 Open To
-- Open Source Contributions  
-- Hackathons  
-- Collaboration on impactful projects  
-
----
-
-## 💬 Ask Me About
-JavaScript, Python, FastAPI, backend development, or effective learning strategies for developers.
-
----
-
-## ⚡ Fun Fact
-I love turning complex ideas into clean, simple web applications that actually solve real-world problems.
 
 
 
