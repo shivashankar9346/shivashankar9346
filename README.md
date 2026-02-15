@@ -1,5 +1,53 @@
-# 👋 Hey, I’m Shiva — Aspiring Full-Stack Developer 
-  <br><br>- 🔭 I’m currently working on **front-end projects with HTML, CSS, JavaScript, and React**  <br>- 🤝 I’m looking to collaborate on  **Open Source Projects & Hackathons**  <br>- 🧑‍💻 I’m looking for help with **best practices in responsive design & clean code**  <br>- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and Frontend Development**  <br>- 💬 Ask me about **JavaScript , project building, and learning strategies**  <br>- ⚡ Fun fact: *I love experimenting with UI designs and turning ideas into simple web apps!*
+# Hi 👋, I'm Shiva  
+### 🚀 Full-Stack Developer
+
+🔭 **Currently Building:**  
+Full-stack web applications using React for the frontend and FastAPI / Node.js for the backend.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React  
+
+### ⚙️ Backend & Databases
+- Node.js  
+- Express  
+- FastAPI (Python)  
+- MongoDB  
+- PostgreSQL  
+
+### 🧪 API & Tools
+- Postman (API Testing & Documentation)  
+- Git & GitHub  
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms (DSA)  
+- Writing scalable and optimized backend systems  
+
+---
+
+## 🤝 Open To
+- Open Source Contributions  
+- Hackathons  
+- Collaboration on impactful projects  
+
+---
+
+## 💬 Ask Me About
+JavaScript, Python, FastAPI, backend development, or effective learning strategies for developers.
+
+---
+
+## ⚡ Fun Fact
+I love turning complex ideas into clean, simple web applications that actually solve real-world problems.
+
 
 
 ## 🌐 Socials:
